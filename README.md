@@ -5,7 +5,16 @@ Run ChessGame.cpp
 
 Open Command Prompt 
 
-Initial positoin of the chess piece will be as below
+Positoin of the chess piece will be Defined as <br><br>
+a0  a1 a2  a3 ... a9<br>
+b0  b1            b9<br>
+.
+.<br>
+.<br>
+.<br>
+i1  i2            i9<br>
+
+Initially pieces will be located as - <br> 
 
 {"BR1", "BN2", "BB3","BQ4", "BK5", "BB6", "BN7", "BR8"},<br>
 		{"BP1","BP2","BP3","BP4","BP5","BP6","BP7","BP8"},<br>
