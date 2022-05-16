@@ -7,12 +7,12 @@ Open Command Prompt
 
 Positoin of the chess piece will be Defined as <br><br>
 a0  a1 a2  a3 ... a9<br>
-b0  b1            b9<br>
+b0  b1  ....       b9<br>
 .
 .<br>
 .<br>
 .<br>
-i1  i2            i9<br>
+i1  i2      ....      i9<br>
 
 Initially pieces will be located as - <br> 
 
