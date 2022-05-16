@@ -12,7 +12,7 @@ b0  b1  ....       b9<br>
 .<br>
 .<br>
 .<br>
-i1  i2      ....      i9<br>
+h1  h2      ....      h9<br>
 
 Initially pieces will be located as - <br> 
 
